@@ -23,7 +23,7 @@ A lightweight, interactive **Streamlit** app that uses [**TabPFN**](https://gith
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/your-screenshot-placeholder" width="800"/>
+<img src="https://github.com/RajashSankarBordoloi/tabpfn-predictor/blob/main/screenshot.png?raw=true" width="800"/>
 
 ---
 
