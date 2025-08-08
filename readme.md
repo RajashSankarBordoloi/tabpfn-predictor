@@ -1,4 +1,4 @@
-# 🔮 TabPFN Tabular Predictor App
+# TabPFN Tabular Predictor App
 
 A lightweight, interactive **Streamlit** app that uses [**TabPFN**](https://github.com/PriorLabs/TabPFN) — a zero-shot pretrained transformer model — to perform **tabular classification and regression** without training.
 
